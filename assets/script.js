@@ -38,3 +38,4 @@ function currentHour() {
 
 // Perforing currentHour function above.
 currentHour();
+
